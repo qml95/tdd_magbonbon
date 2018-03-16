@@ -146,7 +146,4 @@ describe ("variation", function() {
     variation(100, -0)
     expect(decrease).not.toHaveBeenCalled()
   })
-
-
-
 });
